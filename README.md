@@ -23,7 +23,7 @@ Here are some screenshots from the app:
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/alquran-ruqya-app.git
+   git clone git@github.com:fayezCoder/ruqyah_app.git
 Open the project in Android Studio or your preferred IDE.
 
 Build and run the app on your device or emulator.
