@@ -44,6 +44,3 @@ Email: fayezcoder@gmail.com
 Special Thanks
 Thanks to all the contributors and developers who made this project possible. May Allah bless you all.
 
-markdown
-Copy
-Edit
