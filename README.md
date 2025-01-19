@@ -20,8 +20,6 @@ Here are some screenshots from the app:
 ![Screenshot 3](https://github.com/fayezCoder/ruqyah_app/blob/main/screenshots/2.png)
 ![Screenshot 4](https://github.com/fayezCoder/ruqyah_app/blob/main/screenshots/1.png)
 
-> Replace `path_to_your_screenshot_X.png` with the actual relative path or URL of the images in your repository.
-
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
